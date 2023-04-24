@@ -1,4 +1,4 @@
-export default free_email = [
+export default [
     "0.pl",
     "0-00.usa.cc",
     "001.igg.biz",
